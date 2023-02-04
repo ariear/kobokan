@@ -1,5 +1,5 @@
 {
-  "name": "kobokan",
+  "name": "@ariear/kobokan",
   "version": "1.0.2",
   "main": "index.js",
   "license": "ISC",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariear/kobokan.git"
+    "url": "git://github.com/ariear/kobokan.git."
   },
   "homepage": "https://github.com/ariear/kobokan#readme",
   "author": "ariear",
