@@ -49,6 +49,34 @@ Scripts
   });
 ```
 
+Output
+```js
+[
+    {
+        "city": "Banda Aceh",
+        "temperature": "26°C",
+        "time": "07:00 WIB",
+        "image": "https://www.bmkg.go.id/asset/img/icon-cuaca/berawan-am.png",
+        "description": "Berawan" 
+    },
+    {
+        "city": "Serang",
+        "temperature": "26°C",
+        "time": "07:00 WIB",
+        "image": "https://www.bmkg.go.id/asset/img/icon-cuaca/cerah berawan-am.png",
+        "description": "Cerah Berawan" 
+    },
+    {
+        "city": "Bengkulu",
+        "temperature": "24°C",
+        "time": "07:00 WIB",
+        "image": "https://www.bmkg.go.id/asset/img/icon-cuaca/cerah berawan-am.png",
+        "description": "Cerah Berawan" 
+    },
+    ...[and more]
+]
+```
+
 ## API
 
 ### Kobokan
